@@ -21,7 +21,7 @@ A full-featured file manager package for Laravel and Filament v4 with dual opera
 
 - PHP 8.2+
 - Laravel 11.x or 12.x
-- Filament 4.x
+- Filament 4.x or 5.x
 
 ## Installation
 
